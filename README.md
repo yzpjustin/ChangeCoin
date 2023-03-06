@@ -2,7 +2,7 @@
 
 A program that will store the name and coin vale of a person.
 
-This program have build in test data which can be selcted in the start manue.
+This program have a build in test data which can be selcted in the start manue.
 
 This program will then manupliate the data to do the below functions 
 
